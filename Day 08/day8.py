@@ -71,6 +71,5 @@ def wires_connections(entries):
   return output
 
 
-
 if __name__ == '__main__':
   main()
